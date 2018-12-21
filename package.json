@@ -1,6 +1,6 @@
 {
-  "name": "mixn",
-  "version": "0.2.1",
+  "name": "milos",
+  "version": "0.0.1",
   "description": "A personal card for Miloš Sutanovac (@mixn)",
   "main": "index.js",
   "files": [
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "bin": {
-    "mixn": "./src/index.js"
+    "milos": "./src/index.js"
   },
   "license": "MIT",
   "author": {

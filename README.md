@@ -1,7 +1,7 @@
-# 🃏 mixn
+# 🃏 milos
 
 My personal npm card, to view run:
 
 ```
-npx mixn
+npx milos
 ```
