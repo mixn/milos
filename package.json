@@ -13,8 +13,8 @@
   "keywords": [],
   "bin": {
     "mixn": "./src/index.js"
-	},
-	"license": "MIT",
+  },
+  "license": "MIT",
   "author": {
     "name": "Miloš Sutanovac",
     "email": "sutanovac.milos@gmail.com",
