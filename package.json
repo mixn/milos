@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Miloš Sutanovac",
   "main": "index.js",
-	"files": [
+  "files": [
     "src/"
   ],
   "repository": {
@@ -18,5 +18,9 @@
     "name": "Miloš Sutanovac",
     "email": "sutanovac.milos@gmail.com",
     "url": "https://mixn.io"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
   }
 }
