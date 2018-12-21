@@ -1,0 +1,22 @@
+{
+  "name": "mixn",
+  "version": "0.1.0",
+  "description": "Miloš Sutanovac",
+  "main": "index.js",
+	"files": [
+    "src/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixn/mixn.git"
+  },
+  "keywords": [],
+  "bin": {
+    "marius": "./src/index.js"
+  },
+  "author": {
+    "name": "Miloš Sutanovac",
+    "email": "sutanovac.milos@gmail.com",
+    "url": "https://mixn.io"
+  }
+}
