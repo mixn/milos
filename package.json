@@ -23,5 +23,8 @@
   "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "xo": "^0.23.0"
   }
 }
